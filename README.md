@@ -3,7 +3,7 @@ Semi-Supervised Learning via Compact Latent Space Clustering
 
 ### News
 
-June 2019:  
+6 June 2019:  
 * Code (finally) released. Sorry for delay, I'm multi-tasking too much in my PhD.
 
 
